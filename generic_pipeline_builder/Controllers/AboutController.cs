@@ -21,6 +21,10 @@ namespace generic_pipeline_builder.Controllers
         {
             return View();
         }
+        public IActionResult AboutMe()
+        {
+            return View();
+        }
 
 
     }

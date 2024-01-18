@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Editor\Desktop\Homie\generic_pipeline_builder\generic_pipeline_builder
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Editor/Desktop/Homie/generic_pipeline_builder/generic_pipeline_builder/Views/About/AboutMe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQWJvdXRNZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Editor/Desktop/Homie/generic_pipeline_builder/generic_pipeline_builder/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
